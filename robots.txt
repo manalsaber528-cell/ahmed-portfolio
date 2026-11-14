@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://manalsaber528-cell.github.io/ahmed-portfolio/sitemap.xml
